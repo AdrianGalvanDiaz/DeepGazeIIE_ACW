@@ -13,7 +13,7 @@ The goal of this project is to predict human visual attention by identifying sal
 - Dynamic Backbone Adaptation: Utilizes multiple backbones (ResNext50, DenseNet201, EfficientNetB5, ShapeNetC) initialized with random seeds for diversified predictions.
 - Evaluation on CAT2000 Dataset: Trained and evaluated using the MIT CAT2000 dataset.
 
-Feel free to read the full [report](https://github.com/AdrianGalvanDiaz/DeepGazeIIE_ACW/blob/main/Where%20we%20look_%20Approach%20to%20Predicting%20Visual%20Attention%20in%20Images%20using%20Deep%20Learning.docx%20(1).pdf).
+Feel free to read the full [report](https://github.com/AdrianGalvanDiaz/DeepGazeIIE_ACW/blob/main/Where%20we%20look_%20Approach%20to%20Predicting%20Visual%20Attention%20in%20Images%20using%20Deep%20Learning.docx%20(1).pdf) for a more detailed explanation.
 
 ## Results
 Our model was evaluated using metrics such as Information Gain (IG), Normalized Scanpath Saliency (NSS), Area Under the Curve (AUC), and others on the CAT2000 dataset. Below is a summary of our performance:
